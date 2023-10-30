@@ -826,3 +826,8 @@ body{
     justify-content: center;
     color: #ffffffe6;
 }
+
+.new_class_for_git{
+    height: 100px;
+    width: 100%;
+}
