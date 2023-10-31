@@ -832,8 +832,9 @@ body{
     width: 100%;
     color:#ffffff;
 <<<<<<< HEAD
-    display:block;
+    display:flex;
 =======
-    display:inline;
->>>>>>> branch-for-merge
+    display:block;
+
+>>>>>>> branch2
 }

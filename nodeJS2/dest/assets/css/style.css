@@ -831,5 +831,10 @@ body{
     height: 100px;
     width: 100%;
     color:#ffffff;
+<<<<<<< HEAD
     display:flex;
+=======
+    display:block;
+
+>>>>>>> branch2
 }
